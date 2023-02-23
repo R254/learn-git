@@ -1,2 +1,6 @@
 #ignore all .txt
 *.txt
+logs/
+*.logs
+*.log
+bin/
